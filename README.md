@@ -62,7 +62,7 @@ This project analyzes a synthetic dataset containing **464K+ records** from **98
 **Malay Bhunia**
 
 - 🌐 Portfolio: https://malaybhunia-ds.netlify.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/malay-bhunia/
+- 💼 LinkedIn: https://www.linkedin.com/in/malay-bhunia-14ab712a6/
 - 💻 GitHub: https://github.com/MalayBhunia
 
 ---
